@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistroEstudianteKotlin</string>
+    <string name="titulo">Registro de Estudiante</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="registrar">Registrar</string>
+</resources>

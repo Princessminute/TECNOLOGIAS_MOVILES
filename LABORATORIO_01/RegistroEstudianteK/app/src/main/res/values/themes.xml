@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.RegistroEstudianteK" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+
+    </style>
+
+    <style name="Theme.RegistroEstudianteK" parent="Base.Theme.RegistroEstudianteK" />
+
+</resources>
