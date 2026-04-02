@@ -1,0 +1,85 @@
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- CONTENIDO PRINCIPAL -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Botón 1 -->
+        <Button
+            android:id="@+id/btnMostrar"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Mostrar Segunda Actividad"
+            android:onClick="onClick"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="150dp"/>
+
+        <!-- Botón 2 -->
+        <Button
+            android:id="@+id/btnConversionMonedas"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Convertir Monedas"
+            android:onClick="abrirConversionMonedas"
+            app:layout_constraintTop_toBottomOf="@id/btnMostrar"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="24dp"/>
+
+        <!-- Botón 3 -->
+        <Button
+            android:id="@+id/btnDrawer"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Abrir Drawer"
+            android:onClick="abrirDrawer"
+            app:layout_constraintTop_toBottomOf="@id/btnConversionMonedas"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="24dp"/>
+
+        <!-- ProgressBar -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:progress="0"
+            android:layout_marginTop="40dp"
+            app:layout_constraintTop_toBottomOf="@id/btnDrawer"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <!-- Texto -->
+        <TextView
+            android:id="@+id/textViewCarga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cargando..."
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@id/progressBar"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- MENÚ LATERAL -->
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:menu="@menu/drawer_menu"
+        app:headerLayout="@layout/drawer_header"/>
+
+</androidx.drawerlayout.widget.DrawerLayout>

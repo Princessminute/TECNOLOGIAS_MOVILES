@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:background="@drawable/bg_header">
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@mipmap/ic_launcher"
+        android:background="@drawable/circle_bg"
+        android:padding="8dp"
+        android:contentDescription="Logo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Camila"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenida"
+        android:textColor="#E0F7FA"
+        android:textSize="14sp"/>
+</LinearLayout>

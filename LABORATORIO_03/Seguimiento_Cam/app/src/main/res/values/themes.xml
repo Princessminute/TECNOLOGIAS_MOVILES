@@ -1,0 +1,12 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+<style name="Base.Theme.Seguimiento_Cam" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/celeste_principal</item>
+    <item name="colorPrimaryVariant">@color/celeste_oscuro</item>
+    <item name="colorSecondary">@color/celeste_suave</item>
+    <item name="android:textColorPrimary">#0077B6</item>
+    <item name="android:textColorSecondary">#005B87</item>
+</style>
+
+<style name="Theme.Seguimiento_Cam" parent="Base.Theme.Seguimiento_Cam"  />
+</resources>
