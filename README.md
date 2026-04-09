@@ -78,7 +78,7 @@ Figura 8. Visualización de la prueba de la desmarcación de una pizza – Table
 
 
 
- #LABORATORIO 03: PROGRAMACION DE ACTIVIDADES
+                                           #LABORATORIO 03: PROGRAMACION DE ACTIVIDADES
 
 
 1.1	Basado en la actividad desarrollada, adicione dos actividades donde una sea la de la conversión de monedas y la otra incorpore un Navigator Drawer.
