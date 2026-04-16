@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base -->
+    <style name="Base.Theme.PeluchesApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/rosado</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Contenedores (Material 3) -->
+        <item name="colorPrimaryContainer">@color/verde</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+
+        <item name="colorSecondaryContainer">@color/rosado</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+
+        <!-- Fondo -->
+        <item name="android:statusBarColor">@color/verde</item>
+        <item name="android:navigationBarColor">@color/verde</item>
+
+    </style>
+
+    <!-- Tema final -->
+    <style name="Theme.PeluchesApp" parent="Base.Theme.PeluchesApp" />
+
+    <!-- Splash -->
+    <style name="Theme.PeluchesApp.Splash" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/rosado</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+
+        <!-- Opcional (queda más pro) -->
+        <item name="windowSplashScreenIconBackgroundColor">@color/white</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.PeluchesApp</item>
+
+    </style>
+
+</resources>
