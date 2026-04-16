@@ -133,7 +133,7 @@ Figura 9. Resultado de la barra de progreso en DrawerActivity
 <img width="468" height="309" alt="image" src="https://github.com/user-attachments/assets/8653e398-3bfb-4551-a6b8-ba139bcadf38" />
 
 
-                                                #LABORATORIO 04: PERSISTENCIA, PREFERENCIAS COMPARTIDAS
+                                        #LABORATORIO 04: PERSISTENCIA, PREFERENCIAS COMPARTIDAS
 
 
 
