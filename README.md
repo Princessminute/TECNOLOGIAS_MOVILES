@@ -133,7 +133,51 @@ Figura 9. Resultado de la barra de progreso en DrawerActivity
 <img width="468" height="309" alt="image" src="https://github.com/user-attachments/assets/8653e398-3bfb-4551-a6b8-ba139bcadf38" />
 
 
+                                                #LABORATORIO 04: PERSISTENCIA, PREFERENCIAS COMPARTIDAS
+
+
+
+1.1	Realice un catálogo de productos utilizando RecyclerView que muestre el detalle de cada producto (nombre, cantidad y precio). Estos datos deben almacenarse en un archivo XML mediante SharedPreferences.
+
+Figura 1. Visualización de la ventana principal donde se ven todos los productos – Celular.
+
+<img width="397" height="258" alt="image" src="https://github.com/user-attachments/assets/493f2767-ef01-41ab-bdb3-c041d92b64fe" />
+
  
+Figura 2. Visualización del detalle del juguete “muñecas” – Celular.
+
+<img width="397" height="258" alt="image" src="https://github.com/user-attachments/assets/facaa089-fcf5-4834-a255-55d7683464ca" />
+
+ 
+Figura 3. Visualización del carrito de compras – Celular.
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/757a49f0-1f18-4ff0-8351-b88d1916b160" />
+
+ 
+Figura 4. Visualización del mensaje tras la compra adecuada – Celular.
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/e7e169ad-7fb2-414e-af5e-93ef00d594a2" />
+
+ 
+Figura 5. Visualización del logo de inicio de la aplicación – Tablet.
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/4fa73011-33bd-4bbe-9852-2657c6e6da01" />
+
+
+Figura 6. Visualización de la ventana principal donde se ven todos los productos – Tablet.
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/127aba1c-cbfd-471c-8a24-83088e009eb3" />
+
+ 
+Figura 7. Visualización del detalle del juguete “mansión” – Celular.
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/af322fad-30a9-499b-ac6e-426489f818b1" />
+
+ 
+Figura 8. Visualización del carrito de compras – Tablet.
+  
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/fda40813-8e6c-46d7-b6fb-e5b99a536ae6" />
 
 
 
