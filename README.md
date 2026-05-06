@@ -181,7 +181,27 @@ Figura 8. Visualización del carrito de compras – Tablet.
 
 
 
-                                                #LABORATORIO 05: FRAMEWORKS
+                                                #LABORATORIO 06: FRAMEWORKS
+                                                
+Figura 1. Selección de la fecha de nacimiento (calendario).
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/f0471091-56b7-45cc-9bf0-089b1f66e2e4" />
+
+
+
+
+ 
+Figura 2. Selección de la fecha de nacimiento (escrito).
+
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/3b2af4e6-37bd-4876-8a48-286240a608ec" />
+
+
+
+
+ 
+Figura 3. Visualización del cálculo de la edad.
+ 
+<img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/7073b155-cff7-4471-afba-8f03550d5edd" />
 
 
 
