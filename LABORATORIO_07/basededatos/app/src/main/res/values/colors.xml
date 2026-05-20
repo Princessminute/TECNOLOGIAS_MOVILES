@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta moderna -->
+    <color name="primary_green">#2E7D32</color>
+    <color name="light_green">#66BB6A</color>
+
+    <color name="primary_cyan">#00ACC1</color>
+    <color name="light_cyan">#4DD0E1</color>
+
+    <color name="background">#F5F7FA</color>
+
+</resources>
