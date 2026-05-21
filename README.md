@@ -233,6 +233,27 @@ Figura 4. Visualización de la creación del archivo correctamente.
 
 1.2	Desarrolle las operaciones CRUD para su sistema de proyecto utilizando Room (Entity, DAO, Database) y corutinas. 
 
+Figura 5. Visualización de la lista de articulos con la opción de eliminar y actualizar artículos.
+
+ <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/1c302caa-2002-4c4a-b673-ef1fd9c9e268" />
+
+
+
+Figura 6. Visualización del formulario para actualizar artículos.
+
+ <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/afc92061-ad3b-4559-a40e-1c6840834c45" />
+
+
+
+Figura 7. Visualización del formulario para agregar artículos.
+
+ <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/93be24df-54d0-4b11-96cd-7ae0388770ed" />
+
+
+
+Figura 8. Visualización de la inspección de la aplicación en el dispositivo, mostrando los articulos en la base de datos.
+
+<img width="442" height="114" alt="image" src="https://github.com/user-attachments/assets/e699a532-7107-491a-b1e6-ea92acc13cf0" />
 
 
 
