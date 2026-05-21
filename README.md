@@ -239,16 +239,19 @@ Figura 4. Visualización de la creación del archivo correctamente.
 1.3	Modifique el DAO para que la operación listarTodos() retorne un Flow<List<Articulo>> y observe los cambios en tiempo real desde la Activity usando repeatOnLifecycle. 
 
 Figura 9. Visualización de la prueba de flow al visualizar todos los articulos.
+
 <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/4619a5c7-0203-4578-a868-ef0f5c8ac3d0" />
  
 
 
 Figura 10. Visualización tras agregar un nuevo registro (se registra automáticamente).
+
 <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/09460b59-35c3-4579-bfa3-26f9fdf9d9a6" />
  
 
 
 Figura 11. Visualización al modificar un registro.
+
 <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/ea884ed1-88eb-42fb-9f75-0a8d68b77c27" />
 
  
@@ -257,10 +260,12 @@ Figura 11. Visualización al modificar un registro.
 
 
 Figura 12. Creación y adición de ArticuloRepository a la carpeta data y MainActivity.
+
  <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/7435d8da-dc75-40c8-80af-de7c3aaf4237" />
 
 
 Figura 13. Visualización de la correcta implementación mediante los logs.
+
 <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/a6b76a9c-6fdb-4caa-861e-7c550c4c36f7" />
 
  
