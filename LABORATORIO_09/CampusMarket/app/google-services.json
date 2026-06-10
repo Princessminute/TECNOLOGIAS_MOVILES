@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317922217990",
+    "project_id": "campusmarket-2330e",
+    "storage_bucket": "campusmarket-2330e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317922217990:android:2d1f1129d9215fc90cf387",
+        "android_client_info": {
+          "package_name": "com.ucsm.campusmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKr0rEJ_uvtgK_liD91BTKZSqKwkn45E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
