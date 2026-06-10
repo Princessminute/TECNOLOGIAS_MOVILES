@@ -289,6 +289,26 @@ Figura 13. Visualización de la correcta implementación mediante los logs.
 
 <img width="442" height="287" alt="image" src="https://github.com/user-attachments/assets/a6b76a9c-6fdb-4caa-861e-7c550c4c36f7" />
 
+
+
+                                         #LABORATORIO 09: FIREBASE: AUTENTICACION Y MENSAJERIA
+
+                                         
+1.1	Realice un programa de Autenticación con Firebase a su proyecto.
+
+Figura 1. Se ingresa con la credenciales creadas en firebase authentication.
+ 
+<img width="411" height="272" alt="image" src="https://github.com/user-attachments/assets/532a853a-8249-4239-aa72-265652a9b024" />
+
+
+1.2	Incorpore la gestión de mensajería con Firebase Cloud Messaging en un Proyecto de KOTLIN.
+
+Figura 2. Mensaje capturado en la pantalla.
+
+<img width="468" height="309" alt="image" src="https://github.com/user-attachments/assets/7be51df3-7b5b-4448-b005-902642ed053e" />
+
+
+
  
 
 
